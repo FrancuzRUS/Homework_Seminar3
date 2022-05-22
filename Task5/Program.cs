@@ -13,5 +13,3 @@ while (N >= 1)
  Console.WriteLine ($"Сумма цифр в числе равна  {Sum}");
 
 
-
-
