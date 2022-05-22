@@ -13,8 +13,3 @@ for (i = 1; i <= B; i++) C = A*C;
 Console.WriteLine($"Число А в степени В = {C}");
 
 
-
-
-
-
-
